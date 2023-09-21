@@ -143,4 +143,5 @@ def update_book(book_id):
     else:
         return jsonify({'message': 'No book was updated.'}), 200
 
-app.run(debug=True)
+if __name__ == '__main__':
+    app.run(debug=True, host="0.0.0.0", port=5000)
