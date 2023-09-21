@@ -1,14 +1,14 @@
 {
   "builds": [
     {
-      "src": "bookkeeping/app.py",
+      "src": "./",
       "use": "@vercel/python3"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "bookkeeping/app.py"
+      "dest": "./"
     }
   ]
 }
