@@ -1,0 +1,272 @@
+[
+  {
+    "title": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "brief_summary": "A girl discovers a hidden garden and its magical powers.",
+    "cover_image": "https://example.com/secret_garden.jpg",
+    "genre": "Children's Fiction",
+    "publication_date": "1998-04-15",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "brief_summary": "A lawyer defends an innocent black man accused of rape in the 1930s South.",
+    "cover_image": "https://example.com/to_kill_a_mockingbird.jpg",
+    "genre": "Fiction",
+    "publication_date": "2002-09-01",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "brief_summary": "A classic tale of love, misunderstandings, and societal expectations.",
+    "cover_image": "https://example.com/pride_and_prejudice.jpg",
+    "genre": "Romance",
+    "publication_date": "1813-01-28",
+    "free_or_paid": "Free"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "brief_summary": "A dystopian world ruled by a totalitarian regime and thought control.",
+    "cover_image": "https://example.com/1984.jpg",
+    "genre": "Dystopian",
+    "publication_date": "1949-06-08",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "brief_summary": "The story of a disenchanted teenager wandering through New York City.",
+    "cover_image": "https://example.com/catcher_in_the_rye.jpg",
+    "genre": "Coming-of-Age",
+    "publication_date": "1951-07-16",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "brief_summary": "A tale of love, wealth, and the American Dream in the Roaring Twenties.",
+    "cover_image": "https://example.com/great_gatsby.jpg",
+    "genre": "Classics",
+    "publication_date": "1925-04-10",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "brief_summary": "The story of Captain Ahab's obsessive quest for the white whale.",
+    "cover_image": "https://example.com/moby_dick.jpg",
+    "genre": "Adventure",
+    "publication_date": "1851-10-18",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "brief_summary": "In a dystopian future, teenagers fight to the death for entertainment.",
+    "cover_image": "https://example.com/hunger_games.jpg",
+    "genre": "Young Adult",
+    "publication_date": "2008-09-14",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "The Mystery of the Lost Key",
+    "author": "Jessica Adams",
+    "brief_summary": "A thrilling adventure of two young detectives solving a puzzling mystery.",
+    "cover_image": "https://example.com/book1_cover.jpg",
+    "genre": "Mystery",
+    "publication_date": "2023-05-15",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "The Hidden Forest",
+    "author": "Michael Johnson",
+    "brief_summary": "An enchanting tale of magical creatures and an ancient prophecy.",
+    "cover_image": "https://example.com/book2_cover.jpg",
+    "genre": "Fantasy",
+    "publication_date": "2023-04-10",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "The Adventures of Alice",
+    "author": "Lewis Carroll",
+    "brief_summary": "A young girl falls into a fantastical world and embarks on a series of whimsical adventures.",
+    "cover_image": "alice_adventures.jpg",
+    "genre": "Fantasy",
+    "publication_date": "1865-11-26",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "brief_summary": "A powerful story of racial injustice and moral growth in a small Southern town.",
+    "cover_image": "mockingbird.jpg",
+    "genre": "Fiction",
+    "publication_date": "1960-07-11",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "brief_summary": "A dystopian novel set in a totalitarian society where independent thought is suppressed.",
+    "cover_image": "1984.jpg",
+    "genre": "Science Fiction",
+    "publication_date": "1949-06-08",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "brief_summary": "A classic tale of love, manners, and social class in early 19th-century England.",
+    "cover_image": "pride_prejudice.jpg",
+    "genre": "Romance",
+    "publication_date": "1813-01-28",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "brief_summary": "A coming-of-age novel following the experiences of a disenchanted teenager in New York City.",
+    "cover_image": "catcher_rye.jpg",
+    "genre": "Fiction",
+    "publication_date": "1951-07-16",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "brief_summary": "The adventure of a hobbit named Bilbo Baggins who is thrust into an epic quest.",
+    "cover_image": "hobbit.jpg",
+    "genre": "Fantasy",
+    "publication_date": "1937-09-21",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "brief_summary": "A story of wealth, love, and tragedy set in the Roaring Twenties.",
+    "cover_image": "gatsby.jpg",
+    "genre": "Fiction",
+    "publication_date": "1925-04-10",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "brief_summary": "The epic tale of Captain Ahab's obsessive quest for revenge against the giant white whale, Moby Dick.",
+    "cover_image": "moby_dick.jpg",
+    "genre": "Adventure",
+    "publication_date": "1851-10-18",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "brief_summary": "In a dystopian future, teenagers are forced to fight to the death for entertainment.",
+    "cover_image": "hunger_games.jpg",
+    "genre": "Science Fiction",
+    "publication_date": "2008-09-14",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "brief_summary": "A post-apocalyptic journey of a father and son struggling to survive in a barren wasteland.",
+    "cover_image": "the_road.jpg",
+    "genre": "Dystopian",
+    "publication_date": "2006-09-26",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "brief_summary": "The classic tale of Count Dracula's attempt to move from Transylvania to England in order to spread the undead curse.",
+    "cover_image": "dracula.jpg",
+    "genre": "Gothic Horror",
+    "publication_date": "1897-05-26",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "brief_summary": "A dystopian future where society is controlled by technology, drugs, and conditioning.",
+    "cover_image": "brave_new_world.jpg",
+    "genre": "Science Fiction",
+    "publication_date": "1932-10-27",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "brief_summary": "The journey of a shepherd named Santiago as he follows his dreams.",
+    "cover_image": "alchemist.jpg",
+    "genre": "Fiction",
+    "publication_date": "1988-01-01",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "brief_summary": "The epic Greek poem narrating the journey of Odysseus after the Trojan War.",
+    "cover_image": "odyssey.jpg",
+    "genre": "Epic Poetry",
+    "publication_date": "8th century BCE",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "brief_summary": "A panoramic novel depicting Russian society during the Napoleonic era.",
+    "cover_image": "war_peace.jpg",
+    "genre": "Historical Fiction",
+    "publication_date": "1869-01-01",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "The Shining",
+    "author": "Stephen King",
+    "brief_summary": "A family's terrifying experiences in a haunted hotel during the winter season.",
+    "cover_image": "shining.jpg",
+    "genre": "Horror",
+    "publication_date": "1977-01-28",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "brief_summary": "The story of Victor Frankenstein and the creature he brings to life.",
+    "cover_image": "frankenstein.jpg",
+    "genre": "Gothic Horror",
+    "publication_date": "1818-01-01",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "brief_summary": "An epic fantasy trilogy following the quest to destroy the One Ring.",
+    "cover_image": "lord_of_the_rings.jpg",
+    "genre": "Fantasy",
+    "publication_date": "1954-07-29",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "brief_summary": "A comedic science fiction series about the misadventures of Arthur Dent in space.",
+    "cover_image": "hitchhikers_guide.jpg",
+    "genre": "Science Fiction",
+    "publication_date": "1979-10-12",
+    "free_or_paid": "Paid"
+  },
+  {
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "brief_summary": "A psychological thriller about three women entangled in a web of deception and murder.",
+    "cover_image": "girl_on_train.jpg",
+    "genre": "Thriller",
+    "publication_date": "2015-01-13",
+    "free_or_paid": "Paid"
+  }
+]
